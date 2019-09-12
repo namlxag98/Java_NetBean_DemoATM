@@ -1,0 +1,36 @@
+					GIAO DỊCH NẠP TIỀN
+Số tài khoản: 123
+Số tiền đã nạp: 50000
+Thời gian giao dịch: 26-04-2019 09:50:11
+					GIAO DỊCH CHUYỂN TIỀN
+Tài khoản thực hiện giao dịch: 123 -> 234
+Số tiền đã chuyển: 40000
+Thời gian giao dịch: 26-04-2019 09:50:59
+					GIAO DỊCH RÚT TIỀN
+Số tài khoản: 123
+Số tiền đã rút: 100000
+Thời gian giao dịch: 26-04-2019 09:51:50
+					GIAO DỊCH CHUYỂN TIỀN
+Tài khoản thực hiện giao dịch: 123 -> 456
+Số tiền đã chuyển: 50000
+Thời gian giao dịch: 02-05-2019 20:45:03
+					GIAO DỊCH CHUYỂN TIỀN
+Tài khoản thực hiện giao dịch: 456 -> 123
+Số tiền đã chuyển: 20000
+Thời gian giao dịch: 03-05-2019 00:08:02
+					GIAO DỊCH NẠP TIỀN
+Số tài khoản: 123
+Số tiền đã nạp: 50000
+Thời gian giao dịch: 03-05-2019 08:03:10
+					GIAO DỊCH NẠP TIỀN
+Số tài khoản: 123
+Số tiền đã nạp: 50000
+Thời gian giao dịch: 03-05-2019 11:17:31
+					GIAO DỊCH RÚT TIỀN
+Số tài khoản: 123
+Số tiền đã rút: 4000000
+Thời gian giao dịch: 03-05-2019 11:19:57
+					GIAO DỊCH CHUYỂN TIỀN
+Tài khoản thực hiện giao dịch: 234 -> 123
+Số tiền đã chuyển: 40000
+Thời gian giao dịch: 03-05-2019 11:21:07

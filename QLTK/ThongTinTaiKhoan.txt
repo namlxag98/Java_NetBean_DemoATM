@@ -1,0 +1,5 @@
+Thông tin tài khoản của bạn:
+Số tài khoản: 123
+Họ và tên: Nguyễn Văn Tèo
+Số dư khả dụng: 4910000
+-------------------------
