@@ -1,5 +1,5 @@
 # Java_NetBean_DemoATM
-Mô tả ch
+Mô tả chức năng
     1. NỘP TIỀN.
 Khách hàng nhập vào số tiền muốn nộp, sau khi giao dịch thành công, hệ thống sẽ upload dữ liệu lên csdl.
     2. KIỂM TRA SỐ DƯ.
